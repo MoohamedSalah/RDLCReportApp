@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RDLCReportApp", "RDLCReportApp\RDLCReportApp.csproj", "{D78F94A1-9156-49CC-B95A-7F1EBF62735D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RDLCSolution", "RDLCSolution\RDLCSolution.csproj", "{C2FEC7F6-F9EA-43F1-BCA8-2ADA575AD713}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D78F94A1-9156-49CC-B95A-7F1EBF62735D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D78F94A1-9156-49CC-B95A-7F1EBF62735D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D78F94A1-9156-49CC-B95A-7F1EBF62735D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D78F94A1-9156-49CC-B95A-7F1EBF62735D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2FEC7F6-F9EA-43F1-BCA8-2ADA575AD713}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2FEC7F6-F9EA-43F1-BCA8-2ADA575AD713}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2FEC7F6-F9EA-43F1-BCA8-2ADA575AD713}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2FEC7F6-F9EA-43F1-BCA8-2ADA575AD713}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0ABC015-FBB8-43EB-A742-E94B8DC1958A}
+	EndGlobalSection
+EndGlobal
